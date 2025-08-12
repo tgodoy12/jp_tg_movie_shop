@@ -1,0 +1,10 @@
+.venv
+
+__pycache__/
+*.py
+build/
+dist/
+wheels/
+*.egg-info
+
+app_state.json
